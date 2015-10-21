@@ -1,0 +1,43 @@
+.blue_background {
+	background-color: #96C9CC;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.nav, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus, .nav-tabs > li > a {
+border: none;
+}
+.red_background{
+	background-color: #FF3333;
+	width: 100%;
+	margin: 0 auto;
+}
+.yellow_background{
+	background-color: #FFD119;
+	width: 100%;
+	margin: 0 auto;
+}
+.darkblue_background{
+	background-color: #2E5CE6;
+	width: 100%;
+	margin: 0 auto;
+}
+.lightblue_background{
+	background-color: #16BCE6;
+	width: 100%;
+	margin: 0 auto;
+}
+.green_background{
+	background-color: #00A600;
+	width: 100%;
+	margin: 0 auto;
+}
+.purple_background{
+	background-color: #B04DB0;
+	width: 100%;
+	margin: 0 auto;
+}
+#red {
+color: #990000;
+}
